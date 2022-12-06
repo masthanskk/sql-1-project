@@ -1,0 +1,11 @@
+we create a sql project on students details
+
+
+Table Create for students Table
+
+-students
+
+
+And Also added INSERT Quries
+
+And this project is hosted on git up
