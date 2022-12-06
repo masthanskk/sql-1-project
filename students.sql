@@ -1,4 +1,5 @@
 CREATE TABLE "student" (
+	
 	"Id"	INTEGER,
 	"Name"	TEXT,
 	"Class"	TEXT,
