@@ -8,4 +8,6 @@ Table Create for students Table
 
 And Also added INSERT Quries
 
-And this project is hosted on git up
+And this project is hosted on git up.
+
+To know this project details in sql formation.
